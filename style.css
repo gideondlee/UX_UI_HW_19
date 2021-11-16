@@ -44,8 +44,30 @@ html{
     color: white;
 }
 
+.name{
+    color:white;
+    text-align: left;
+    float:left;
+    font-weight: lighter;
+}
 
+.socials{
+    text-align: right;
+    background-color: #23395d;
+    height: auto;
 
+}
+.social_icons{
+    width:20%;
+    margin:0%;
+}
+.icons{
+    padding: 2%;
+    justify-content: space-between;
+}
+.iconify{
+    margin: 10px;
+}
 .bg{
     background-color: #23395d;
     background-size: contain;
